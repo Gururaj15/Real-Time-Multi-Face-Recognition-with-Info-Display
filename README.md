@@ -10,7 +10,7 @@ Face Details Display: Displays personal details like country, height, and age of
 
 # Technologies Used
 
-Python 3.x
+Python .
 Tkinter: GUI for the application interface.
 OpenCV: For real-time webcam video capture and processing.
 Face Recognition: For detecting and recognizing faces in images and videos.
