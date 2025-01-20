@@ -1,0 +1,9 @@
+opencv-python
+#dlib>=19.24.0; platform_system != "Windows"
+#dlib; platform_system == "Windows"
+face_recognition
+numpy==1.23.5
+flask
+pandas
+pillow
+

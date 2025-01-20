@@ -1,0 +1,6 @@
+name,country,height,age
+John Doe,USA,5'9,30
+Jane Smith,Canada,5'6,25
+Alice Johnson,UK,5'7,28
+Bob Brown,Australia,6'0,35
+Charlie Davis,USA,5'8,22
