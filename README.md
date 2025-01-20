@@ -5,27 +5,34 @@ This project is a Face Recognition Application that uses a webcam or image to de
 # Features
 
 Real-Time Face Detection: Detects and recognizes multiple faces in real-time using a webcam.
+
 Image Upload and Recognition: Allows users to upload images and displays recognized faces with their associated details.
+
 Face Details Display: Displays personal details like country, height, and age of recognized faces, retrieved from a CSV file.
 
 # Technologies Used
 
 Python .
+
 Tkinter: GUI for the application interface.
+
 OpenCV: For real-time webcam video capture and processing.
+
 Face Recognition: For detecting and recognizing faces in images and videos.
+
 Pillow: For image handling and integration with Tkinter.
+
 CSV: Used for storing personal details related to recognized faces.
 
 # Prerequisites
 
 Before running the project, ensure the following Python libraries are installed:
-face_recognition
-Pillow
-opencv-python
-numpy
-csv
-tkinter
+face_recognition,
+Pillow,
+opencv-python,
+numpy,
+csv,
+tkinter.
 
 # dataset/ Folder
 
